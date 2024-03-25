@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on PowerLawers</title>
-    <link>http://localhost:1313/powerlaw.github.io/en/blog/</link>
+    <link>https://astaruf.github.io/powerlaw.github.io/en/blog/</link>
     <description>Recent content in Blogs on PowerLawers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:43:36 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/powerlaw.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astaruf.github.io/powerlaw.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/powerlaw.github.io/en/blog/lorem_ipsum/</link>
+      <link>https://astaruf.github.io/powerlaw.github.io/en/blog/lorem_ipsum/</link>
       <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
-      <guid>http://localhost:1313/powerlaw.github.io/en/blog/lorem_ipsum/</guid>
+      <guid>https://astaruf.github.io/powerlaw.github.io/en/blog/lorem_ipsum/</guid>
       <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
     </item>
     <item>
       <title>Follow us</title>
-      <link>http://localhost:1313/powerlaw.github.io/en/blog/follow_us/</link>
+      <link>https://astaruf.github.io/powerlaw.github.io/en/blog/follow_us/</link>
       <pubDate>Mon, 25 Mar 2024 10:13:32 -0400</pubDate>
-      <guid>http://localhost:1313/powerlaw.github.io/en/blog/follow_us/</guid>
+      <guid>https://astaruf.github.io/powerlaw.github.io/en/blog/follow_us/</guid>
       <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/powerlaw.github.io/en/blog/hello_world/</link>
+      <link>https://astaruf.github.io/powerlaw.github.io/en/blog/hello_world/</link>
       <pubDate>Mon, 25 Mar 2024 09:02:58 -0400</pubDate>
-      <guid>http://localhost:1313/powerlaw.github.io/en/blog/hello_world/</guid>
+      <guid>https://astaruf.github.io/powerlaw.github.io/en/blog/hello_world/</guid>
       <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
     </item>
   </channel>
