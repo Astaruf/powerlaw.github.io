@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power Law Site</title>
-    <link>https://powerlaw.github.io/en/</link>
+    <link>https://astaruf.github.io/powerlaw.github.io/en/</link>
     <description>Recent content on Power Law Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://powerlaw.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astaruf.github.io/powerlaw.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

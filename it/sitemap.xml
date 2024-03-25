@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://powerlaw.github.io/it/categories/</loc>
+    <loc>https://astaruf.github.io/powerlaw.github.io/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://powerlaw.github.io/en/categories/"
+                href="https://astaruf.github.io/powerlaw.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://powerlaw.github.io/it/categories/"
+                href="https://astaruf.github.io/powerlaw.github.io/it/categories/"
                 />
   </url><url>
-    <loc>https://powerlaw.github.io/it/</loc>
+    <loc>https://astaruf.github.io/powerlaw.github.io/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://powerlaw.github.io/en/"
+                href="https://astaruf.github.io/powerlaw.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://powerlaw.github.io/it/"
+                href="https://astaruf.github.io/powerlaw.github.io/it/"
                 />
   </url><url>
-    <loc>https://powerlaw.github.io/it/tags/</loc>
+    <loc>https://astaruf.github.io/powerlaw.github.io/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://powerlaw.github.io/en/tags/"
+                href="https://astaruf.github.io/powerlaw.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://powerlaw.github.io/it/tags/"
+                href="https://astaruf.github.io/powerlaw.github.io/it/tags/"
                 />
   </url>
 </urlset>
