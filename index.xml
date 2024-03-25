@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerLawers</title>
+    <link>http://localhost:1313/powerlaw.github.io/</link>
+    <description>Recent content on PowerLawers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Mar 2024 10:43:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/powerlaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/powerlaw.github.io/blog/lorem_ipsum/</link>
+      <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
+      <guid>http://localhost:1313/powerlaw.github.io/blog/lorem_ipsum/</guid>
+      <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
+    </item>
+    <item>
+      <title>Follow us</title>
+      <link>http://localhost:1313/powerlaw.github.io/blog/follow_us/</link>
+      <pubDate>Mon, 25 Mar 2024 10:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/powerlaw.github.io/blog/follow_us/</guid>
+      <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/powerlaw.github.io/blog/hello_world/</link>
+      <pubDate>Mon, 25 Mar 2024 09:02:58 -0400</pubDate>
+      <guid>http://localhost:1313/powerlaw.github.io/blog/hello_world/</guid>
+      <description>Hello everyone! We&amp;rsquo;re thrilled to join this community! We&amp;rsquo;re a group of enthusiasts with a variety of interests, ready to share our knowledge and learn from you. Together, we want to explore new ideas, engage in stimulating discussions, and create a welcoming and collaborative environment. We can&amp;rsquo;t wait to connect with all of you and kick off this amazing journey together! 🚀 #Welcome #Sharing</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/powerlaw.github.io/page/about/</link>
+      <pubDate>Mon, 25 Mar 2024 09:01:44 -0400</pubDate>
+      <guid>http://localhost:1313/powerlaw.github.io/page/about/</guid>
+      <description>In physics, a power law, also known as a scaling law, is a functional relationship between two quantities, where one quantity varies as a power of another. Mathematically, it is expressed as &amp;ldquo;y = ax^b&amp;rdquo;, where &amp;ldquo;y&amp;rdquo; and &amp;ldquo;x&amp;rdquo; are the quantities involved, &amp;ldquo;a&amp;rdquo; is a constant, and &amp;ldquo;b&amp;rdquo; is the exponent determining the power law behavior.&#xA;Power laws are characterized by the property that small changes in the independent variable &amp;ldquo;x&amp;rdquo; can result in large changes in the dependent variable &amp;ldquo;y&amp;rdquo;, and vice versa.</description>
+    </item>
+  </channel>
+</rss>

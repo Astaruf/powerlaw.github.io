@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PowerLawers</title>
-    <link>https://astaruf.github.io/powerlaw.github.io/it/</link>
+    <link>http://localhost:1313/it/</link>
     <description>Recent content on PowerLawers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <atom:link href="https://astaruf.github.io/powerlaw.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 10:43:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/it/blog/lorem_ipsum/</link>
+      <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
+      <guid>http://localhost:1313/it/blog/lorem_ipsum/</guid>
+      <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
+    </item>
+    <item>
+      <title>Seguici</title>
+      <link>http://localhost:1313/it/blog/seguici/</link>
+      <pubDate>Mon, 25 Mar 2024 10:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/it/blog/seguici/</guid>
+      <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/it/blog/hello_world/</link>
+      <pubDate>Mon, 25 Mar 2024 09:02:58 -0400</pubDate>
+      <guid>http://localhost:1313/it/blog/hello_world/</guid>
+      <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/it/page/about/</link>
+      <pubDate>Mon, 25 Mar 2024 09:01:44 -0400</pubDate>
+      <guid>http://localhost:1313/it/page/about/</guid>
+      <description>In fisica, una legge di potenza, nota anche come legge di scala, è una relazione funzionale tra due grandezze, in cui una grandezza varia come potenza di un&amp;rsquo;altra. Matematicamente, si esprime come &amp;ldquo;y = ax^b&amp;rdquo;, dove &amp;ldquo;y&amp;rdquo; e &amp;ldquo;x&amp;rdquo; sono le quantità coinvolte, &amp;ldquo;a&amp;rdquo; è una costante e &amp;ldquo;b&amp;rdquo; è l&amp;rsquo;esponente che determina il comportamento della legge di potenza.&#xA;Le leggi di potenza sono caratterizzate dalla proprietà che piccole variazioni della variabile indipendente &amp;ldquo;x&amp;rdquo; possono determinare grandi variazioni della variabile dipendente &amp;ldquo;y&amp;rdquo; e viceversa.</description>
+    </item>
   </channel>
 </rss>

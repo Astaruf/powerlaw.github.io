@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PowerLawers</title>
-    <link>https://astaruf.github.io/powerlaw.github.io/it/tags/</link>
+    <link>http://localhost:1313/it/tags/</link>
     <description>Recent content in Tags on PowerLawers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <atom:link href="https://astaruf.github.io/powerlaw.github.io/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 10:43:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/it/tags/blog/</link>
+      <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
+      <guid>http://localhost:1313/it/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/it/tags/hello/</link>
+      <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
+      <guid>http://localhost:1313/it/tags/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/it/tags/about/</link>
+      <pubDate>Mon, 25 Mar 2024 09:01:44 -0400</pubDate>
+      <guid>http://localhost:1313/it/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerlaw</title>
+      <link>http://localhost:1313/it/tags/powerlaw/</link>
+      <pubDate>Mon, 25 Mar 2024 09:01:44 -0400</pubDate>
+      <guid>http://localhost:1313/it/tags/powerlaw/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

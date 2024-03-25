@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on PowerLawers</title>
+    <link>http://localhost:1313/it/page/</link>
+    <description>Recent content in Pages on PowerLawers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 25 Mar 2024 09:01:44 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/it/page/about/</link>
+      <pubDate>Mon, 25 Mar 2024 09:01:44 -0400</pubDate>
+      <guid>http://localhost:1313/it/page/about/</guid>
+      <description>In fisica, una legge di potenza, nota anche come legge di scala, è una relazione funzionale tra due grandezze, in cui una grandezza varia come potenza di un&amp;rsquo;altra. Matematicamente, si esprime come &amp;ldquo;y = ax^b&amp;rdquo;, dove &amp;ldquo;y&amp;rdquo; e &amp;ldquo;x&amp;rdquo; sono le quantità coinvolte, &amp;ldquo;a&amp;rdquo; è una costante e &amp;ldquo;b&amp;rdquo; è l&amp;rsquo;esponente che determina il comportamento della legge di potenza.&#xA;Le leggi di potenza sono caratterizzate dalla proprietà che piccole variazioni della variabile indipendente &amp;ldquo;x&amp;rdquo; possono determinare grandi variazioni della variabile dipendente &amp;ldquo;y&amp;rdquo; e viceversa.</description>
+    </item>
+  </channel>
+</rss>
