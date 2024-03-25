@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello on PowerLawers</title>
-    <link>http://localhost:1313/it/tags/hello/</link>
+    <link>http://localhost:1313/powerlaw/it/tags/hello/</link>
     <description>Recent content in Hello on PowerLawers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:43:36 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/it/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/powerlaw/it/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/it/blog/lorem_ipsum/</link>
+      <link>http://localhost:1313/powerlaw/it/blog/lorem_ipsum/</link>
       <pubDate>Mon, 25 Mar 2024 10:43:36 -0400</pubDate>
-      <guid>http://localhost:1313/it/blog/lorem_ipsum/</guid>
+      <guid>http://localhost:1313/powerlaw/it/blog/lorem_ipsum/</guid>
       <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
     </item>
     <item>
       <title>Seguici</title>
-      <link>http://localhost:1313/it/blog/seguici/</link>
+      <link>http://localhost:1313/powerlaw/it/blog/seguici/</link>
       <pubDate>Mon, 25 Mar 2024 10:13:32 -0400</pubDate>
-      <guid>http://localhost:1313/it/blog/seguici/</guid>
+      <guid>http://localhost:1313/powerlaw/it/blog/seguici/</guid>
       <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/it/blog/hello_world/</link>
+      <link>http://localhost:1313/powerlaw/it/blog/hello_world/</link>
       <pubDate>Mon, 25 Mar 2024 09:02:58 -0400</pubDate>
-      <guid>http://localhost:1313/it/blog/hello_world/</guid>
+      <guid>http://localhost:1313/powerlaw/it/blog/hello_world/</guid>
       <description>Ciao a tutti! Siamo entusiasti di entrare a far parte di questa comunità! Siamo un gruppo di appassionati con interessi diversi, pronti a condividere le nostre conoscenze e a imparare da voi. Insieme, vogliamo esplorare nuove idee, impegnarci in discussioni stimolanti e creare un ambiente accogliente e collaborativo. Non vediamo l&amp;rsquo;ora di entrare in contatto con tutti voi e di iniziare questo fantastico viaggio insieme! 🚀 #Benvenuti #Condivisione</description>
     </item>
   </channel>

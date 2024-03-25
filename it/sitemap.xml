@@ -2,162 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/it/tags/blog/</loc>
+    <loc>http://localhost:1313/powerlaw/it/tags/blog/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/blog/"
+                href="http://localhost:1313/powerlaw/en/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/blog/"
+                href="http://localhost:1313/powerlaw/it/tags/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/blog/</loc>
+    <loc>http://localhost:1313/powerlaw/it/blog/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/"
+                href="http://localhost:1313/powerlaw/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/blog/"
+                href="http://localhost:1313/powerlaw/it/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/hello/</loc>
+    <loc>http://localhost:1313/powerlaw/it/tags/hello/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/hello/"
+                href="http://localhost:1313/powerlaw/en/tags/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/hello/"
+                href="http://localhost:1313/powerlaw/it/tags/hello/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/blog/lorem_ipsum/</loc>
+    <loc>http://localhost:1313/powerlaw/it/blog/lorem_ipsum/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/lorem_ipsum/"
+                href="http://localhost:1313/powerlaw/en/blog/lorem_ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/blog/lorem_ipsum/"
+                href="http://localhost:1313/powerlaw/it/blog/lorem_ipsum/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/</loc>
+    <loc>http://localhost:1313/powerlaw/it/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/powerlaw/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/"
+                href="http://localhost:1313/powerlaw/it/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/</loc>
+    <loc>http://localhost:1313/powerlaw/it/tags/</loc>
     <lastmod>2024-03-25T10:43:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/powerlaw/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/"
+                href="http://localhost:1313/powerlaw/it/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/blog/seguici/</loc>
+    <loc>http://localhost:1313/powerlaw/it/blog/seguici/</loc>
     <lastmod>2024-03-25T10:13:32-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/it/blog/hello_world/</loc>
+    <loc>http://localhost:1313/powerlaw/it/blog/hello_world/</loc>
     <lastmod>2024-03-25T09:02:58-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/hello_world/"
+                href="http://localhost:1313/powerlaw/en/blog/hello_world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/blog/hello_world/"
+                href="http://localhost:1313/powerlaw/it/blog/hello_world/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/about/</loc>
+    <loc>http://localhost:1313/powerlaw/it/tags/about/</loc>
     <lastmod>2024-03-25T09:01:44-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/about/"
+                href="http://localhost:1313/powerlaw/en/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/about/"
+                href="http://localhost:1313/powerlaw/it/tags/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/page/about/</loc>
+    <loc>http://localhost:1313/powerlaw/it/page/about/</loc>
     <lastmod>2024-03-25T09:01:44-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/page/about/"
+                href="http://localhost:1313/powerlaw/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/page/about/"
+                href="http://localhost:1313/powerlaw/it/page/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/page/</loc>
+    <loc>http://localhost:1313/powerlaw/it/page/</loc>
     <lastmod>2024-03-25T09:01:44-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/page/"
+                href="http://localhost:1313/powerlaw/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/page/"
+                href="http://localhost:1313/powerlaw/it/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/powerlaw/</loc>
+    <loc>http://localhost:1313/powerlaw/it/tags/powerlaw/</loc>
     <lastmod>2024-03-25T09:01:44-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/powerlaw/"
+                href="http://localhost:1313/powerlaw/en/tags/powerlaw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/powerlaw/"
+                href="http://localhost:1313/powerlaw/it/tags/powerlaw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/categories/</loc>
+    <loc>http://localhost:1313/powerlaw/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/powerlaw/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/categories/"
+                href="http://localhost:1313/powerlaw/it/categories/"
                 />
   </url>
 </urlset>
